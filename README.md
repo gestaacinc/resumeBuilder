@@ -33,7 +33,7 @@ Use it as a living backlog skeleton: add acceptance criteria, estimates, and dep
 <details>
 <summary><strong>Click to expand the full swim-lane map</strong></summary>
 
-### 2.1  Referrer (“I bring people in”)
+### 2.1  Referrer (“I bring people in”) 12days
 
 | #        | Referrer user-story (As a Referrer …)                                                 | System event it causes →          | Who / What is triggered                          |
 | -------- | ------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------ |
@@ -46,7 +46,7 @@ Use it as a living backlog skeleton: add acceptance criteria, estimates, and dep
 
 ---
 
-### 2.2  Candidate (“I apply for a job”)
+### 2.2  Candidate (“I apply for a job”) 15days
 
 *A Candidate can toggle “Become a Referrer” at any time, converting their account into a dual role.*
 
@@ -61,7 +61,7 @@ Use it as a living backlog skeleton: add acceptance criteria, estimates, and dep
 
 ---
 
-### 2.3  Resource Specialist (RS) (“I screen & endorse”)
+### 2.3  Resource Specialist (RS) (“I screen & endorse”) 15days
 
 | #         | RS user-story (As an RS …)                                       | Trigger ←   | System event it causes →        | Who / What is triggered              |
 | --------- | ---------------------------------------------------------------- | ----------- | ------------------------------- | ------------------------------------ |
@@ -74,7 +74,7 @@ Use it as a living backlog skeleton: add acceptance criteria, estimates, and dep
 
 ---
 
-### 2.4  DO Team Leader (TL) (“I give business sign-off”)
+### 2.4  DO Team Leader (TL) (“I give business sign-off”) 3-5days
 
 | #         | TL user-story (As a TL …)                                                | Trigger ← | System event it causes → | Who / What is triggered |
 | --------- | ------------------------------------------------------------------------ | --------- | ------------------------ | ----------------------- |
@@ -85,7 +85,7 @@ Use it as a living backlog skeleton: add acceptance criteria, estimates, and dep
 
 ---
 
-### 2.5  System (timed & automatic jobs)
+### 2.5  System (timed & automatic jobs)3-5days
 
 | #          | System job                                       | Trigger | Effect →                              | Who / What is triggered         |
 | ---------- | ------------------------------------------------ | ------- | ------------------------------------- | ------------------------------- |
