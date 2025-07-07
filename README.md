@@ -147,9 +147,9 @@ Use it as a living backlog skeleton: add acceptance criteria, estimates, and dep
 
 ### Next steps
 
-1. **Import each user-story** into Jira / Azure Boards / Trello.
-2. Add **Given / When / Then** acceptance criteria and **story points**.
-3. Confirm the **tech-stack** with DevOps & security.
-4. Spin up **Sprint 0** (environments, design system, CI baseline).
+
+1. Add **Given / When / Then** acceptance criteria and **story points**.
+2. Confirm the **tech-stack** with DevOps & security.
+3. Spin up **Sprint 0** (environments, design system, CI baseline).
 
  
