@@ -1,13 +1,4 @@
  
-* **New stories:**
-
-  * **R-06** Referrer can also apply as a Candidate
-  * **RS-06** RS can search the CV pool and invite candidates
-* Minor wording tweak in the Candidate intro to highlight the **“Become a Referrer”** toggle.
-
-Everything else (sprint plan, tech stack) remains unchanged.
-
----
 
 # Resume Builder & Referral Program — Product Guide
 
@@ -161,6 +152,4 @@ Use it as a living backlog skeleton: add acceptance criteria, estimates, and dep
 3. Confirm the **tech-stack** with DevOps & security.
 4. Spin up **Sprint 0** (environments, design system, CI baseline).
 
----
-
-With these updates, **every bullet** from your latest slides is mapped to a user story or system job, and the delivery plan stays within the 17-week window.
+ 
